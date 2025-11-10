@@ -1,0 +1,1 @@
+Kurssin Ohjelmistotekniikka TKT20006 viikkopalautukset tulevat tähän repositorioon.
